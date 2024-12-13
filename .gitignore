@@ -1,0 +1,29 @@
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npmrc
+.yarn-integrity
+
+# Editor-specific
+.DS_Store
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.user
+*.jscsrc
+
+# Testing
+/coverage
+/test-results
+
+# Build artifacts
+/build
+/dist
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+*.DS_Store

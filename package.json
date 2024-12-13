@@ -1,0 +1,19 @@
+{
+  "name": "cli-note-taking-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
